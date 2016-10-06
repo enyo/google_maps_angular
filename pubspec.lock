@@ -115,12 +115,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.0.2"
-  initialize:
-    description:
-      name: initialize
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.6.2+2"
   intl:
     description:
       name: intl
@@ -187,18 +181,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.2.0"
-  polymer:
-    description:
-      name: polymer
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.0.0-rc.18"
-  polymer_interop:
-    description:
-      name: polymer_interop
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.0.0-rc.10"
   pool:
     description:
       name: pool
@@ -211,12 +193,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.5.3"
-  reflectable:
-    description:
-      name: reflectable
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.5.4"
   shelf:
     description:
       name: shelf
@@ -283,12 +259,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.9.7+3"
-  web_components:
-    description:
-      name: web_components
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.12.3"
   when:
     description:
       name: when
